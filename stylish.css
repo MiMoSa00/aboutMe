@@ -544,9 +544,13 @@ ul>li>a {
   ul>li>a {
     color: black;
   }
+  .bookmark_container{
+    margin-left: 12px;
+  }
 
-  .bookmark_container {
-    background: none;
+  .bookmark_container>img {
+    display: none;
+    
   }
 
   .bookmark_container>p {
@@ -572,5 +576,8 @@ ul>li>a {
 
   .right {
     padding-left: .5rem;
+  }
+  .section_3, .email{
+ 
   }
 }
