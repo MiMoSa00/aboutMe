@@ -558,7 +558,7 @@ ul>li>a {
   }
 
   .section_2 {
-    width: 70%;
+    width: 80%;
     margin-top: 4rem;
   }
 
@@ -577,5 +577,7 @@ ul>li>a {
   .right {
     padding-left: .5rem;
   }
-
+.section_3{
+  width: 80%;
+}
 }
